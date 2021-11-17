@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya-Swamy
+- 👋 Hi, I’m Aditya Siddalingaswamy (@Aditya-Swamy)
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently pursuing Master of Science in Cybersecuirty Engineering at University of Washington
 - 💞️ I’m looking for Summer 2022 Software Engineering Internship
