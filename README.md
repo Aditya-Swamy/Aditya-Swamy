@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Siddalingaswamy (@Aditya-Swamy)
 - 👀 I’m interested in Software Engineering and Security
 - 🌱 I’m currently pursuing Master of Science in Cybersecurity Engineering at the University of Washington
-- 💞️ I’m an incoming Information Security Development Programer at Apple, SCV - Summer 2023
+- 💞️ I’m an incoming Information Security Developer at Apple, SCV - Summer 2024
 - 📫 How to reach me: Email- adityaswamy1997@gmail.com
 
 <!---
